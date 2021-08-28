@@ -12,8 +12,8 @@ News app using API https://newsapi.org
 1. Main screen - Create a screen to display category list of news.
 2. Source screen - Show news sources when user click one of the news categories.
 3. Article screen - Show news article when user clicks one of the news sources.
-4. Webview news screen - Show the article detail on WebView when user clicks one ofthe articles.
-5. Source screen & Article screen - Provide a function to search news sources and articlescreen.
+4. Webview news screen - Show the article detail on WebView when user clicks one of the articles.
+5. Source screen & Article screen - Provide a function to search news sources and article screen.
 6. Source screen & Article screen - Implement endless scrolling on news sources and articles screen.
 7.  Cover positive and negative cases.
 
@@ -36,6 +36,7 @@ Please use your own api key. Because I'm worried that my api key will get limite
 Find file lib/utils/values/my_values.dart and change token with your api key.
 
 ## How To Run
-1. type git clone https://github.com/andriawanridwan/newsapi-test-alfadigital.git on your terminal.
-2. open project with vscode or other IDE.
-3. run the program with press f5 or type flutter run on terminal.
+1. Type git clone https://github.com/andriawanridwan/newsapi-test-alfadigital.git on your terminal.
+2. Open project with vscode or other IDE.
+3. Type flutter pub get on your terminal to get the package on project
+4. Run the project on your simulator device or real device with press f5 or type flutter run on your terminal.
