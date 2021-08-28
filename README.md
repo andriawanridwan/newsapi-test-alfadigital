@@ -36,6 +36,6 @@ Please use your own api key. Because I'm worried that my api key will get limite
 Find file lib/utils/values/my_values.dart and change token with your api key.
 
 ## How To Run
-1. git clone https://github.com/andriawanridwan/newsapi-test-alfadigital.git on your repository.
+1. type git clone https://github.com/andriawanridwan/newsapi-test-alfadigital.git on your terminal.
 2. open project with vscode or other IDE.
 3. run the program with press f5 or type flutter run on terminal.
